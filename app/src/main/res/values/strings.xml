@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Google Weather Icons v4</string>
+    <string name="provider_name">Google Weather Icons v4</string>
+    <string name="app_description">
+        This icon pack provides Google\'s beautiful weather icons (v4 design) for Breezy Weather app.\n\n
+        To use these icons:\n
+        1. Make sure Breezy Weather is installed\n
+        2. Open Breezy Weather\n
+        3. Go to Settings → Appearance → Icon Packs\n
+        4. Select \"Google Weather Icons v4\"\n\n
+        The icons feature both day and night variants with transparent backgrounds for the best visual experience.
+    </string>
+    <string name="open_breezy_weather">Open Breezy Weather</string>
+    <string name="view_source_icons">View Source Icons</string>
+    <string name="breezy_weather_not_installed">Breezy Weather is not installed. Opening download page...</string>
+</resources>

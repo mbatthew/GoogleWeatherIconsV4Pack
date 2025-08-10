@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary theme colors inspired by Google's weather design -->
+    <color name="primary_color">#4285F4</color>
+    <color name="primary_variant">#3367D6</color>
+    <color name="secondary_color">#34A853</color>
+    <color name="secondary_variant">#0F9D58</color>
+
+    <!-- Background colors -->
+    <color name="background_color">#FAFAFA</color>
+    <color name="surface_color">#FFFFFF</color>
+
+    <!-- Text colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_tertiary">#BDBDBD</color>
+
+    <!-- Status bar and other system colors -->
+    <color name="status_bar_color">#3367D6</color>
+
+    <!-- Weather-specific accent colors -->
+    <color name="sunny_accent">#FFC107</color>
+    <color name="cloudy_accent">#9E9E9E</color>
+    <color name="rainy_accent">#2196F3</color>
+    <color name="stormy_accent">#607D8B</color>
+    <color name="snowy_accent">#E1F5FE</color>
+    <color name="light_blue">#E3F2FD</color>
+</resources>
