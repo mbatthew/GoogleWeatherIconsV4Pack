@@ -35,9 +35,13 @@ A custom icon pack for [Breezy Weather](https://github.com/breezy-weather/breezy
 
 ## Screenshots
 
-| Breezy Weather Settings | Home Screen Icon | Weather Display |
-|------------------------|------------------|-----------------|
-| ![Settings](screenshots/settings.png) | ![Launcher](screenshots/launcher.png) | ![Weather](screenshots/weather.png) |
+| Breezy Weather Settings | Icon Preview | Weather Display |
+|------------------------|---------------|-----------------|
+| ![Settings](settings.png) | ![Preview](preview.png) | ![Weather](weather1.png) |
+
+| Weather Display #2 |
+|--------------------|
+| ![Weather2](weather2.png) |
 
 ## Technical Details
 
