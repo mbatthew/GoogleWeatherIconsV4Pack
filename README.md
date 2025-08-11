@@ -35,13 +35,13 @@ A custom icon pack for [Breezy Weather](https://github.com/breezy-weather/breezy
 
 ## Screenshots
 
-| Breezy Weather Settings | Icon Preview | Weather Display |
-|------------------------|---------------|-----------------|
-| ![Settings](settings.png) | ![Preview](preview.png) | ![Weather](weather1.png) |
+| Breezy Weather Settings | Icon Pack Preview |
+|------------------------|-------------------|
+| ![Settings](settings.png) | ![Preview](preview.png) |
 
-| Weather Display #2 |
-|--------------------|
-| ![Weather2](weather2.png) |
+| Day Weather | Night Weather | More Examples |
+|-------------|---------------|---------------|
+| ![Weather Day](weather1.png) | ![Weather Night](weather-night.png) | ![Weather 2](weather2.png) |
 
 ## Technical Details
 
