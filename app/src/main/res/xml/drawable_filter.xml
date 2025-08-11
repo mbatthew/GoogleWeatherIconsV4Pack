@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Clear conditions -->
+    <string-array name="weather_clear_day_filter">
+        <item>weather_clear_day</item>
+    </string-array>
+    <string-array name="weather_clear_night_filter">
+        <item>weather_clear_night</item>
+    </string-array>
+
+    <!-- Cloudy conditions -->
+    <string-array name="weather_cloudy_filter">
+        <item>weather_cloudy_day</item>
+    </string-array>
+    <string-array name="weather_cloudy_night_filter">
+        <item>weather_cloudy_night</item>
+    </string-array>
+
+    <!-- Partly cloudy -->
+    <string-array name="weather_partly_cloudy_day_filter">
+        <item>weather_partly_cloudy_day</item>
+    </string-array>
+    <string-array name="weather_partly_cloudy_night_filter">
+        <item>weather_partly_cloudy_night</item>
+    </string-array>
+
+    <!-- Rain conditions -->
+    <string-array name="weather_rain_filter">
+        <item>weather_rain_day</item>
+    </string-array>
+    <string-array name="weather_rain_day_filter">
+        <item>weather_rain_day</item>
+    </string-array>
+    <string-array name="weather_rain_night_filter">
+        <item>weather_rain_night</item>
+    </string-array>
+
+    <!-- Snow conditions -->
+    <string-array name="weather_snow_filter">
+        <item>weather_snow_day</item>
+    </string-array>
+    <string-array name="weather_snow_day_filter">
+        <item>weather_snow_day</item>
+    </string-array>
+    <string-array name="weather_snow_night_filter">
+        <item>weather_snow_night</item>
+    </string-array>
+
+    <!-- Sleet -->
+    <string-array name="weather_sleet_filter">
+        <item>weather_sleet_day</item>
+    </string-array>
+    <string-array name="weather_sleet_day_filter">
+        <item>weather_sleet_day</item>
+    </string-array>
+    <string-array name="weather_sleet_night_filter">
+        <item>weather_sleet_night</item>
+    </string-array>
+
+    <!-- Thunderstorm conditions -->
+    <string-array name="weather_thunderstorm_filter">
+        <item>weather_thunderstorm_day</item>
+    </string-array>
+    <string-array name="weather_thunderstorm_day_filter">
+        <item>weather_thunderstorm_day</item>
+    </string-array>
+    <string-array name="weather_thunderstorm_night_filter">
+        <item>weather_thunderstorm_night</item>
+    </string-array>
+
+    <!-- Thunder (generic) -->
+    <string-array name="weather_thunder_filter">
+        <item>weather_thunder_day</item>
+    </string-array>
+    <string-array name="weather_thunder_day_filter">
+        <item>weather_thunder_day</item>
+    </string-array>
+    <string-array name="weather_thunder_night_filter">
+        <item>weather_thunder_night</item>
+    </string-array>
+
+    <!-- Wind conditions -->
+    <string-array name="weather_wind_filter">
+        <item>weather_wind_day</item>
+    </string-array>
+    <string-array name="weather_wind_day_filter">
+        <item>weather_wind_day</item>
+    </string-array>
+    <string-array name="weather_wind_night_filter">
+        <item>weather_wind_night</item>
+    </string-array>
+
+    <!-- Hail conditions -->
+    <string-array name="weather_hail_filter">
+        <item>weather_hail_day</item>
+    </string-array>
+    <string-array name="weather_hail_day_filter">
+        <item>weather_hail_day</item>
+    </string-array>
+    <string-array name="weather_hail_night_filter">
+        <item>weather_hail_night</item>
+    </string-array>
+
+    <!-- Fog conditions -->
+    <string-array name="weather_fog_filter">
+        <item>weather_fog_day</item>
+    </string-array>
+    <string-array name="weather_fog_day_filter">
+        <item>weather_fog_day</item>
+    </string-array>
+    <string-array name="weather_fog_night_filter">
+        <item>weather_fog_night</item>
+    </string-array>
+
+    <!-- Haze conditions -->
+    <string-array name="weather_haze_filter">
+        <item>weather_haze_day</item>
+    </string-array>
+    <string-array name="weather_haze_day_filter">
+        <item>weather_haze_day</item>
+    </string-array>
+    <string-array name="weather_haze_night_filter">
+        <item>weather_haze_night</item>
+    </string-array>
+</resources>
