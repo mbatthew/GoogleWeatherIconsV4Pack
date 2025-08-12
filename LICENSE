@@ -22,14 +22,27 @@ SOFTWARE.
 
 ---
 
-## Third-Party Content
+## IMPORTANT LICENSING NOTICE FOR WEATHER ICONS
 
-### Google Weather Icons
-The weather icons included in this app are from Google Weather Icons v4:
-- **Copyright**: © Google LLC
-- **License**: Creative Commons Attribution 4.0 International License
-- **Source**: https://github.com/mrdarrengriffin/google-weather-icons
-- **Attribution**: These icons are used under the Creative Commons Attribution 4.0 License
+**This MIT License applies ONLY to the application source code created by Matthew T.**
 
-To view a copy of the Creative Commons Attribution 4.0 license, visit:
-https://creativecommons.org/licenses/by/4.0/
+**Weather Icons Licensing Status: UNCERTAIN**
+
+The weather icons bundled with this application are sourced from:
+- Source: https://github.com/mrdarrengriffin/google-weather-icons
+- Original Rights Holder: Google LLC (according to source repository)
+
+**Critical Legal Information:**
+1. The source repository explicitly states: "I do not own these icons. All rights belong to Google"
+2. No official Google documentation has been located confirming these specific icons are released under any open source license
+3. The Google Maps Weather Icons documentation (https://developers.google.com/maps/documentation/weather/weather-condition-icons) does not specify licensing terms
+4. These icons may be subject to Google's standard copyright protection
+
+**User Responsibility:**
+- Users and distributors of this application assume full responsibility for compliance with applicable copyright laws
+- This application is distributed under the premise of fair use for interoperability purposes
+- Commercial use or redistribution may require separate licensing from Google LLC
+- Users should seek legal counsel if uncertain about their intended use
+
+**Recommendation:**
+For applications requiring clear licensing compliance (such as F-Droid distribution), consider using alternative weather icon sets with explicit open source licenses.
