@@ -1,8 +1,6 @@
 # Google Weather Icons v4 - Breezy Weather Icon Pack
 A custom icon pack for [Breezy Weather](https://github.com/breezy-weather/breezy-weather) featuring weather icons inspired by Google's Weather Icons v4 with clean, transparent backgrounds.
 
-![Preview](https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/preview.png)
-
 ## Features
 - ✅ 24 essential weather icons inspired by Google Weather Icons v4
 - ✅ Day and night variants for accurate weather representation  
