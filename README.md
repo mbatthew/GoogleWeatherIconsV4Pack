@@ -1,15 +1,6 @@
 # Google Weather Icons v4 - Breezy Weather Icon Pack
 A custom icon pack for [Breezy Weather](https://github.com/breezy-weather/breezy-weather) featuring weather icons inspired by Google's Weather Icons v4 with clean, transparent backgrounds.
 
-## Features
-- ✅ 24 essential weather icons inspired by Google Weather Icons v4
-- ✅ Day and night variants for accurate weather representation  
-- ✅ Transparent backgrounds - no circular masks or backgrounds
-- ✅ Optimized file size - 256x256px PNG icons for fast downloads
-- ✅ Full compatibility with Breezy Weather v5.4.8+
-- ✅ Clean integration - appears seamlessly in Breezy Weather settings
-- ✅ Lightweight APK - Under 500KB download size
-
 ## Icon Preview
 Click any icon to view/download the full-size PNG file.
 
@@ -190,6 +181,15 @@ Click any icon to view/download the full-size PNG file.
     <td align="center"></td>
   </tr>
 </table>
+
+## Features
+- ✅ 24 essential weather icons inspired by Google Weather Icons v4
+- ✅ Day and night variants for accurate weather representation  
+- ✅ Transparent backgrounds - no circular masks or backgrounds
+- ✅ Optimized file size - 256x256px PNG icons for fast downloads
+- ✅ Full compatibility with Breezy Weather v5.4.8+
+- ✅ Clean integration - appears seamlessly in Breezy Weather settings
+- ✅ Lightweight APK - Under 500KB download size
 
 ## Installation
 ### Method 1: Download APK
