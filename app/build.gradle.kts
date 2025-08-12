@@ -1,3 +1,4 @@
+// build.gradle.kts
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
@@ -11,18 +12,16 @@ android {
         applicationId = "com.matthew.googleweathericonsv4"
         minSdk = 21
         targetSdk = 34
-        versionCode = 2
-        versionName = "1.1.0"
-
+        versionCode = 4
+        versionName = "1.3.0"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
     buildTypes {
         release {
-            isMinifyEnabled = false
+            isMinifyEnabled = true
+            isShrinkResources = false
             proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro")
-
-            // Sign with debug key for now - you can add proper signing later
             signingConfig = signingConfigs.getByName("debug")
         }
     }
@@ -35,20 +34,15 @@ android {
     kotlinOptions {
         jvmTarget = "11"
     }
-
-    buildFeatures {
-        viewBinding = true
-    }
 }
 
 dependencies {
+    // A minimal icon pack might not even need these if the MainActivity is completely empty.
+    // However, keeping core-ktx is a good practice for compatibility.
+    // All other dependencies are likely safe to remove.
     implementation("androidx.core:core-ktx:1.12.0")
-    implementation("androidx.appcompat:appcompat:1.6.1")
-    implementation("com.google.android.material:material:1.11.0")
-    implementation("androidx.constraintlayout:constraintlayout:2.1.4")
-    implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.7.0")
 
-    // Testing dependencies
+    // Test dependencies can also be stripped down if not being used.
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
