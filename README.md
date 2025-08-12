@@ -19,40 +19,40 @@ Click any icon to view/download the full-size PNG file.
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/clear_day.png">
-        <img src="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/clear_day.png" width="64" alt="Clear Day"/>
+      <a href="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_clear_day.png">
+        <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_clear_day.png" width="64" alt="Clear Day"/>
       </a>
       <br/>Clear Day
     </td>
     <td align="center">
-      <a href="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/clear_night.png">
-        <img src="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/clear_night.png" width="64" alt="Clear Night"/>
+      <a href="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_clear_night.png">
+        <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_clear_night.png" width="64" alt="Clear Night"/>
       </a>
       <br/>Clear Night
     </td>
     <td align="center">
-      <a href="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/partly_cloudy_day.png">
-        <img src="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/partly_cloudy_day.png" width="64" alt="Partly Cloudy Day"/>
+      <a href="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_partly_cloudy_day.png">
+        <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_partly_cloudy_day.png" width="64" alt="Partly Cloudy Day"/>
       </a>
       <br/>Partly Cloudy Day
     </td>
     <td align="center">
-      <a href="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/partly_cloudy_night.png">
-        <img src="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/partly_cloudy_night.png" width="64" alt="Partly Cloudy Night"/>
+      <a href="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_partly_cloudy_night.png">
+        <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_partly_cloudy_night.png" width="64" alt="Partly Cloudy Night"/>
       </a>
       <br/>Partly Cloudy Night
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/cloudy.png">
-        <img src="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/cloudy.png" width="64" alt="Cloudy"/>
+      <a href="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_cloudy_day.png">
+        <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_cloudy_day.png" width="64" alt="Cloudy"/>
       </a>
       <br/>Cloudy
     </td>
     <td align="center">
-      <a href="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/overcast.png">
-        <img src="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/overcast.png" width="64" alt="Overcast"/>
+      <a href="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_cloudy_night.png">
+        <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_cloudy_night.png" width="64" alt="Overcast"/>
       </a>
       <br/>Overcast
     </td>
@@ -65,52 +65,52 @@ Click any icon to view/download the full-size PNG file.
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/rain.png">
-        <img src="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/rain.png" width="64" alt="Rain"/>
+      <a href="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_rain_day.png">
+        <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_rain_day.png" width="64" alt="Rain"/>
       </a>
       <br/>Rain
     </td>
     <td align="center">
-      <a href="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/rain_night.png">
-        <img src="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/rain_night.png" width="64" alt="Rain Night"/>
+      <a href="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_rain_night.png">
+        <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_rain_night.png" width="64" alt="Rain Night"/>
       </a>
       <br/>Rain Night
     </td>
     <td align="center">
-      <a href="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/snow.png">
-        <img src="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/snow.png" width="64" alt="Snow"/>
+      <a href="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_snow_day.png">
+        <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_snow_day.png" width="64" alt="Snow"/>
       </a>
       <br/>Snow
     </td>
     <td align="center">
-      <a href="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/snow_night.png">
-        <img src="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/snow_night.png" width="64" alt="Snow Night"/>
+      <a href="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_snow_night.png">
+        <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_snow_night.png" width="64" alt="Snow Night"/>
       </a>
       <br/>Snow Night
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/sleet.png">
-        <img src="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/sleet.png" width="64" alt="Sleet"/>
+      <a href="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_sleet_day.png">
+        <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_sleet_day.png" width="64" alt="Sleet"/>
       </a>
       <br/>Sleet
     </td>
     <td align="center">
-      <a href="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/sleet_night.png">
-        <img src="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/sleet_night.png" width="64" alt="Sleet Night"/>
+      <a href="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_sleet_night.png">
+        <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_sleet_night.png" width="64" alt="Sleet Night"/>
       </a>
       <br/>Sleet Night
     </td>
     <td align="center">
-      <a href="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/hail.png">
-        <img src="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/hail.png" width="64" alt="Hail"/>
+      <a href="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_hail_day.png">
+        <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_hail_day.png" width="64" alt="Hail"/>
       </a>
       <br/>Hail
     </td>
     <td align="center">
-      <a href="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/hail_night.png">
-        <img src="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/hail_night.png" width="64" alt="Hail Night"/>
+      <a href="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_hail_night.png">
+        <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_hail_night.png" width="64" alt="Hail Night"/>
       </a>
       <br/>Hail Night
     </td>
@@ -121,26 +121,26 @@ Click any icon to view/download the full-size PNG file.
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/fog.png">
-        <img src="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/fog.png" width="64" alt="Fog"/>
+      <a href="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_fog_day.png">
+        <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_fog_day.png" width="64" alt="Fog"/>
       </a>
       <br/>Fog
     </td>
     <td align="center">
-      <a href="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/fog_night.png">
-        <img src="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/fog_night.png" width="64" alt="Fog Night"/>
+      <a href="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_fog_night.png">
+        <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_fog_night.png" width="64" alt="Fog Night"/>
       </a>
       <br/>Fog Night
     </td>
     <td align="center">
-      <a href="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/haze.png">
-        <img src="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/haze.png" width="64" alt="Haze"/>
+      <a href="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_haze_day.png">
+        <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_haze_day.png" width="64" alt="Haze"/>
       </a>
       <br/>Haze
     </td>
     <td align="center">
-      <a href="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/haze_night.png">
-        <img src="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/haze_night.png" width="64" alt="Haze Night"/>
+      <a href="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_haze_night.png">
+        <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_haze_night.png" width="64" alt="Haze Night"/>
       </a>
       <br/>Haze Night
     </td>
@@ -151,40 +151,40 @@ Click any icon to view/download the full-size PNG file.
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/thunder.png">
-        <img src="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/thunder.png" width="64" alt="Thunder"/>
+      <a href="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_thunder_day.png">
+        <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_thunder_day.png" width="64" alt="Thunder"/>
       </a>
       <br/>Thunder
     </td>
     <td align="center">
-      <a href="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/thunder_night.png">
-        <img src="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/thunder_night.png" width="64" alt="Thunder Night"/>
+      <a href="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_thunder_night.png">
+        <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_thunder_night.png" width="64" alt="Thunder Night"/>
       </a>
       <br/>Thunder Night
     </td>
     <td align="center">
-      <a href="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/thunderstorm.png">
-        <img src="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/thunderstorm.png" width="64" alt="Thunderstorm"/>
+      <a href="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_thunderstorm_day.png">
+        <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_thunderstorm_day.png" width="64" alt="Thunderstorm"/>
       </a>
       <br/>Thunderstorm
     </td>
     <td align="center">
-      <a href="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/thunderstorm_night.png">
-        <img src="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/thunderstorm_night.png" width="64" alt="Thunderstorm Night"/>
+      <a href="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_thunderstorm_night.png">
+        <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_thunderstorm_night.png" width="64" alt="Thunderstorm Night"/>
       </a>
       <br/>Thunderstorm Night
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/wind.png">
-        <img src="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/wind.png" width="64" alt="Wind"/>
+      <a href="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_wind_day.png">
+        <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_wind_day.png" width="64" alt="Wind"/>
       </a>
       <br/>Wind
     </td>
     <td align="center">
-      <a href="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/wind_night.png">
-        <img src="https://github.com/mbatthew/GoogleWeatherIconsV4Pack/raw/main/app/src/main/res/drawable/wind_night.png" width="64" alt="Wind Night"/>
+      <a href="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_wind_night.png">
+        <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_wind_night.png" width="64" alt="Wind Night"/>
       </a>
       <br/>Wind Night
     </td>
@@ -212,12 +212,9 @@ Click any icon to view/download the full-size PNG file.
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather) app installed
 
 ## Screenshots
-| Breezy Weather Settings | Icon Pack Preview |
-|------------------------|-------------------|
-| ![Settings](https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/settings.png) | ![Preview](https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/preview.png) |
-| Day Weather | Night Weather | More Examples |
-|-------------|---------------|---------------|
-| ![Weather Day](https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/weather1.png) | ![Weather Night](https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/weather-night.png) | ![Weather 2](https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/weather2.png) |
+| Breezy Weather Settings | Icon Pack Preview | Day Weather | Night Weather | More Examples |
+|------------------------|-------------------|-------------|---------------|---------------|
+| ![Settings](https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/settings.png) | ![Preview](https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/preview.png) | ![Weather Day](https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/weather1.png) | ![Weather Night](https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/weather-night.png) | ![Weather 2](https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/weather2.png) |
 
 ## Technical Details
 - Package name: com.matthew.googleweathericonsv4
@@ -229,52 +226,3 @@ Click any icon to view/download the full-size PNG file.
 
 ## Development
 ### Project Structure
-```
-app/
-├── src/main/
-│   ├── res/
-│   │   ├── drawable/           # Weather icons (PNG)
-│   │   ├── mipmap-*/           # App launcher icons
-│   │   └── xml/
-│   │       └── drawable_filter.xml  # Breezy Weather mapping
-│   ├── assets/                 # Preview images
-│   └── AndroidManifest.xml     # App configuration
-└── build.gradle.kts           # Build configuration
-```
-
-### Building
-1. Ensure you have Android Studio with SDK 34+
-2. Clone the repository
-3. Open project in Android Studio
-4. Sync project with Gradle files
-5. Build → Generate Signed Bundle / APK
-
-## Contributing
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on contributing to this project.
-
-## License & Legal Notice
-**Application Code**: This project's source code is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-**Weather Icons**: The weather icons included in this application are sourced from https://github.com/mrdarrengriffin/google-weather-icons. The licensing status of these icons is uncertain, as:
-- The source repository explicitly disclaims ownership with "I do not own these icons. All rights belong to Google"
-- No official Google documentation has been located that confirms these specific icons are released under an open source license
-- Users and distributors should be aware of potential copyright restrictions
-
-**Disclaimer**: This application is provided for educational and interoperability purposes. Users assume responsibility for compliance with applicable copyright laws in their jurisdiction.
-
-## Changelog
-### v1.3.0 (Latest)
-- Dramatically reduced APK size from 5MB to 500KB
-- Optimized icon dimensions to 256x256px
-- Streamlined dependencies for better performance
-- Updated licensing documentation for accuracy
-
-### v1.2.0
-- Optimized PNG file sizes using advanced compression
-- Improved download and installation speed
-
-### v1.1.0
-- Fixed night icon support in Breezy Weather
-- Replaced config.xml with proper drawable_filter.xml
-- Added missing critical weather icons
-- Complete day/night icon coverage
