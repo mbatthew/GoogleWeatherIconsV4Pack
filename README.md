@@ -1,22 +1,20 @@
 # Google Weather Icons v4 - Breezy Weather Icon Pack
-
 A custom icon pack for [Breezy Weather](https://github.com/breezy-weather/breezy-weather) featuring Google's official Weather Icons v4 with clean, transparent backgrounds.
 
-![Preview](preview.png)
+![Preview](https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/preview.png)
 
 ## Features
-
-- ✅ **80+ weather icons** from Google Weather Icons v4
+- ✅ **24 essential weather icons** from Google Weather Icons v4
 - ✅ **Day and night variants** for accurate weather representation
 - ✅ **Transparent backgrounds** - no circular masks or backgrounds
-- ✅ **High resolution** 512x512px PNG icons converted from original SVGs
+- ✅ **Optimized file size** - 256x256px PNG icons for fast downloads
 - ✅ **Full compatibility** with Breezy Weather v5.4.8+
-- ✅ **Clean integration** appears seamlessly in Breezy Weather settings
+- ✅ **Clean integration** - appears seamlessly in Breezy Weather settings
+- ✅ **Lightweight APK** - Under 500KB download size
 
 ## Installation
-
 ### Method 1: Download APK
-1. Go to [Releases](../../releases)
+1. Go to [Releases](https://github.com/mbatthew/GoogleWeatherIconsV4Pack/releases)
 2. Download the latest `GoogleWeatherIconsV4Pack.apk`
 3. Install the APK on your Android device
 4. Open Breezy Weather → Settings → Appearance → Icon Packs
@@ -25,113 +23,96 @@ A custom icon pack for [Breezy Weather](https://github.com/breezy-weather/breezy
 ### Method 2: Build from Source
 1. Clone this repository
 2. Open in Android Studio
-3. Build → Build Bundle(s) / APK(s) → Build APK(s)
+3. Build → Generate Signed Bundle / APK
 4. Install the generated APK
 
 ## Requirements
-
-- Android 8.0+ (API level 26+)
+- Android 5.0+ (API level 21+)
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather) app installed
 
 ## Screenshots
 
 | Breezy Weather Settings | Icon Pack Preview |
 |------------------------|-------------------|
-| ![Settings](settings.png) | ![Preview](preview.png) |
+| ![Settings](https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/settings.png) | ![Preview](https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/preview.png) |
 
 | Day Weather | Night Weather | More Examples |
 |-------------|---------------|---------------|
-| ![Weather Day](weather1.png) | ![Weather Night](weather-night.png) | ![Weather 2](weather2.png) |
+| ![Weather Day](https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/weather1.png) | ![Weather Night](https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/weather-night.png) | ![Weather 2](https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/weather2.png) |
 
 ## Technical Details
-
 - **Package name**: `com.matthew.googleweathericonsv4`
-- **Target SDK**: Android API level 34
-- **Architecture**: Uses ContentProvider pattern for icon pack integration
-- **Icon format**: 512x512px PNG with transparent backgrounds
-- **Integration method**: Dual ContentProvider + metadata approach
+- **Target SDK**: Android API level 34 (Android 14)
+- **Minimum SDK**: Android API level 21 (Android 5.0)
+- **APK size**: ~500KB
+- **Architecture**: Uses drawable_filter.xml for Breezy Weather integration
+- **Icon format**: 256x256px PNG with transparent backgrounds
 
 ## Icon Coverage
+This icon pack includes essential weather conditions with day/night variants:
 
-This icon pack includes all major weather conditions with day/night variants:
-
-**Clear & Sunny**
-- Clear day/night, mostly clear day/night, partly cloudy day/night
-
-**Cloudy**
-- Cloudy, mostly cloudy day/night, broken clouds day/night
+**Clear & Cloudy**
+- Clear day/night
+- Partly cloudy day/night
+- Cloudy day/night
 
 **Precipitation**
-- Rain (light, heavy, showers), snow (light, heavy, blizzard), mixed precipitation, drizzle, sleet
-
-**Severe Weather**
-- Thunderstorms, severe thunderstorms, hurricanes, tornadoes, tropical storms
+- Rain day/night
+- Snow day/night
+- Sleet day/night
+- Hail day/night
 
 **Atmospheric Conditions**
-- Fog, mist, haze, dust, sand, smoke, volcanic ash
+- Fog day/night
+- Haze day/night
 
-**Special Conditions**
-- Very hot, very cold, windy, squalls
+**Severe Weather & Wind**
+- Thunder day/night
+- Thunderstorm day/night
+- Wind day/night
 
 ## Development
-
 ### Project Structure
 ```
 app/
 ├── src/main/
-│   ├── java/com/matthew/googleweathericonsv4pack/
-│   │   ├── MainActivity.kt
-│   │   └── GoogleWeatherIconProvider.kt
 │   ├── res/
-│   │   ├── drawable/          # Weather icons (PNG)
-│   │   ├── mipmap-*/          # App launcher icons
-│   │   ├── values/
-│   │   │   └── strings.xml
+│   │   ├── drawable/           # Weather icons (PNG)
+│   │   ├── mipmap-*/           # App launcher icons
 │   │   └── xml/
-│   │       └── config.xml     # Icon pack configuration
-│   └── AndroidManifest.xml
+│   │       └── drawable_filter.xml  # Breezy Weather mapping
+│   ├── assets/                 # Preview images
+│   └── AndroidManifest.xml     # App configuration
+└── build.gradle.kts           # Build configuration
 ```
 
-### Contributing
+### Building
+1. Ensure you have Android Studio with SDK 34+
+2. Clone the repository
+3. Open project in Android Studio
+4. Sync project with Gradle files
+5. Build → Generate Signed Bundle / APK
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test with Breezy Weather
-5. Submit a pull request
-
-## Credits & Attribution
-
-### Icons
-- **Original Icons**: Google Weather Icons v4
-- **Source**: [mrdarrengriffin/google-weather-icons](https://github.com/mrdarrengriffin/google-weather-icons)
-- **License**: Creative Commons Attribution 4.0 License
-- **Copyright**: © Google LLC. All rights reserved.
-
-### Development
-- **Icon Pack Development**: mbatthew
-- **Breezy Weather Integration**: Based on [Breezy Weather Icon Pack standards](https://github.com/breezy-weather/breezy-weather-icon-packs)
-
-### Special Thanks
-- [Breezy Weather](https://github.com/breezy-weather/breezy-weather) team for the excellent weather app
-- [mrdarrengriffin](https://github.com/mrdarrengriffin) for collecting and organizing the Google Weather Icons
-- Google for creating the original weather icon designs
+## Contributing
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on contributing to this project.
 
 ## License
-
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-**Important**: The weather icons themselves are owned by Google and licensed under Creative Commons Attribution 4.0. This repository contains only the Android app wrapper that packages these icons for use with Breezy Weather.
+**Note**: Google Weather Icons are property of Google Inc. This project packages them for use with Breezy Weather under fair use for interoperability purposes.
 
-## Disclaimer
+## Changelog
+### v1.3.0 (Latest)
+- Dramatically reduced APK size from 5MB to 500KB
+- Optimized icon dimensions to 256x256px
+- Streamlined dependencies for better performance
 
-This is an unofficial icon pack. Google Weather Icons are the property of Google LLC. This project is not affiliated with or endorsed by Google LLC or the Breezy Weather project.
+### v1.2.0
+- Optimized PNG file sizes using advanced compression
+- Improved download and installation speed
 
-## Support
-
-- **Issues**: Report bugs or feature requests in the [Issues](../../issues) section
-- **Breezy Weather Support**: Visit the [official Breezy Weather repository](https://github.com/breezy-weather/breezy-weather)
-
----
-
-**Made with ❤️ for the Breezy Weather community**
+### v1.1.0
+- Fixed night icon support in Breezy Weather
+- Replaced config.xml with proper drawable_filter.xml
+- Added missing critical weather icons
+- Complete day/night icon coverage
