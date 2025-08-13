@@ -1,8 +1,6 @@
 # Google Weather Icons v4 - Breezy Weather Icon Pack
 A custom icon pack for [Breezy Weather](https://github.com/breezy-weather/breezy-weather) featuring weather icons inspired by Google's Weather Icons v4 with clean, transparent backgrounds.
 
-
-
 ## Icon Preview
 Click any icon to view the full-size PNG file.
 
@@ -38,18 +36,13 @@ Click any icon to view the full-size PNG file.
 [<img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_wind_day.png" width="64" alt="Wind"/>](https://github.com/mbatthew/GoogleWeatherIconsV4Pack/blob/main/app/src/main/res/drawable/weather_wind_day.png)
 [<img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_wind_night.png" width="64" alt="Wind Night"/>](https://github.com/mbatthew/GoogleWeatherIconsV4Pack/blob/main/app/src/main/res/drawable/weather_wind_night.png)
 
-
-
 ## Features
 - ✅ 24 essential weather icons inspired by Google Weather Icons v4
 - ✅ Day and night variants for accurate weather representation  
-- ✅ Transparent backgrounds - no circular masks or backgrounds
 - ✅ Optimized file size - 256x256px PNG icons for fast downloads
 - ✅ Full compatibility with Breezy Weather v5.4.8+
 - ✅ Clean integration - appears seamlessly in Breezy Weather settings
 - ✅ Lightweight APK - Under 500KB download size
-
-
 
 ## Installation
 ### Method 1: Download APK
@@ -65,20 +58,14 @@ Click any icon to view the full-size PNG file.
 3. Build → Generate Signed Bundle / APK
 4. Install the generated APK
 
-
-
 ## Requirements
 - Android 5.0+ (API level 21+)
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather) app installed
-
-
 
 ## Screenshots
 | Breezy Weather Settings | Icon Pack Preview | Day Weather | Night Weather | More Examples |
 |------------------------|-------------------|-------------|---------------|---------------|
 | ![Settings](https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/settings.png) | ![Preview](https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/preview.png) | ![Weather Day](https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/weather1.png) | ![Weather Night](https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/weather-night.png) | ![Weather 2](https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/weather2.png) |
-
-
 
 ## Technical Details
 - Package name: com.matthew.googleweathericonsv4
@@ -87,8 +74,6 @@ Click any icon to view the full-size PNG file.
 - APK size: ~500KB
 - Architecture: Uses drawable_filter.xml for Breezy Weather integration
 - Icon format: 256x256px PNG with transparent backgrounds
-
-
 
 ## Development
 ### Project Structure
@@ -115,6 +100,13 @@ app/
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on contributing to this project.
 
+## Credits & Acknowledgments
+This project was made possible thanks to the open source community:
+
+- **[papjul](https://github.com/papjul)** - Prominent developer and maintainer of [Breezy Weather](https://github.com/breezy-weather/breezy-weather) who provided the essential [icon pack development instructions](https://github.com/breezy-weather/breezy-weather-icon-packs/blob/main/INSTRUCTIONS.md) that enabled this project. Special thanks for the technical guidance that made v1.2.0 and v1.3.0 possible, including identifying missing icons, proper drawable_filter.xml implementation, and the oxipng optimization technique.
+
+- **[Breezy Weather Project](https://github.com/breezy-weather/breezy-weather)** - For creating an extensible weather app that supports custom icon packs
+
 ## License & Legal Notice
 **Application Code**: This project's source code is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -127,17 +119,17 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on contributing to this pr
 
 ## Changelog
 ### v1.3.0 (Latest)
-- Dramatically reduced APK size from 5MB to 500KB
+- Dramatically reduced APK size from 5MB to 500KB using oxipng optimization
 - Optimized icon dimensions to 256x256px
 - Streamlined dependencies for better performance
 - Updated licensing documentation for accuracy
 
 ### v1.2.0
+- Added missing critical weather icons (Cloudy, Rain, Wind, Hail, Thunder)
+- Replaced config.xml with proper drawable_filter.xml for better Breezy Weather integration
 - Optimized PNG file sizes using advanced compression
 - Improved download and installation speed
 
 ### v1.1.0
 - Fixed night icon support in Breezy Weather
-- Replaced config.xml with proper drawable_filter.xml
-- Added missing critical weather icons
 - Complete day/night icon coverage
