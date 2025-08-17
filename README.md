@@ -55,9 +55,8 @@ Click any icon to view the full-size PNG file.
 ## Screenshots
 
 | Breezy Weather Settings | Icon Pack Preview | Day Weather | Night Weather | Dark Mode | More Examples |
-| :---------------------- | :---------------- | :---------- | :------------ | :-------- | :-------------- |
-| <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/settings.png" alt="Settings" width="150"> | <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/preview.png" alt="Preview" width="150"> | <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/weather1.png" alt="Weather Day" width="150"> | <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/weather-night.png" alt="Weather Night" width="150"> | <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/weather-dark.png" alt="Dark Mode" width="150"> | <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/weather2.png" alt="Weather 2" width="150"> |
-
+|-------------------------|-------------------|-------------|---------------|-----------|---------------|
+| ![Settings](https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/settings.png) | ![Preview](https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/preview.png) | ![Weather Day](https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/weather1.png) | ![Weather Night](https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/weather-night.png) | ![Dark Mode](https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/weather-dark.png) | ![Weather 2](https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/weather2.png) |
 ## Technical Details
 - Package name: com.matthew.googleweathericonsv4
 - Target SDK: Android API level 34 (Android 14)
@@ -67,6 +66,7 @@ Click any icon to view the full-size PNG file.
 - Icon format: 256x256px PNG with transparent backgrounds
 ## Development
 ### Project Structure
+```
 app/
 ├── src/main/
 │   ├── res/
@@ -77,7 +77,7 @@ app/
 │   ├── assets/                 # Preview images
 │   └── AndroidManifest.xml     # App configuration
 └── build.gradle.kts           # Build configuration
-
+```
 ### Building
 1. Ensure you have Android Studio with SDK 34+
 2. Clone the repository
