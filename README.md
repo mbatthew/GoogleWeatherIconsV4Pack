@@ -32,7 +32,7 @@ Click any icon to view the full-size PNG file.
 [<img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/res/drawable/weather_wind_night.png" width="64" alt="Wind Night"/>](https://github.com/mbatthew/GoogleWeatherIconsV4Pack/blob/main/app/src/main/res/drawable/weather_wind_night.png)
 ## Features
 - ✅ 24 essential weather icons inspired by Google Weather Icons v4
-- ✅ Day and night variants for accurate weather representation  
+- ✅ Day and night variants for accurate weather representation
 - ✅ Optimized file size - 256x256px PNG icons for fast downloads
 - ✅ Full compatibility with Breezy Weather v5.4.8+
 - ✅ Clean integration - appears seamlessly in Breezy Weather settings
@@ -53,9 +53,12 @@ Click any icon to view the full-size PNG file.
 - Android 5.0+ (API level 21+)
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather) app installed
 ## Screenshots
-| Breezy Weather Settings | Icon Pack Preview | Day Weather | Night Weather | Dark Mode | More Examples |
-|------------------------|-------------------|-------------|---------------|-----------|---------------|
-| <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/settings.png" width="200" alt="Settings"/> | <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/preview.png" width="200" alt="Preview"/> | <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/weather1.png" width="200" alt="Weather Day"/> | <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/weather-night.png" width="200" alt="Weather Night"/> | <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/weather-dark.png" width="200" alt="Dark Mode"/> | <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/weather2.png" width="200" alt="Weather 2"/> |
+
+### App Integration
+<img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/settings.png" width="250" alt="Breezy Weather Settings"/> <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/preview.png" width="250" alt="Icon Pack Preview"/>
+
+### Weather Display Examples
+<img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/weather1.png" width="200" alt="Day Weather"/> <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/weather-night.png" width="200" alt="Night Weather"/> <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/weather-dark.png" width="200" alt="Dark Mode"/> <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/weather2.png" width="200" alt="More Examples"/>
 ## Technical Details
 - Package name: com.matthew.googleweathericonsv4
 - Target SDK: Android API level 34 (Android 14)
@@ -98,9 +101,8 @@ This project was made possible thanks to the open source community:
 **Disclaimer**: This application is provided for educational and interoperability purposes. Users assume responsibility for compliance with applicable copyright laws in their jurisdiction.
 ## Changelog
 ### v1.4.0 (Latest)
-- 🔧 Fixed - Notification icons now display correctly
+- Fixed - Notification icons now display correctly
 - Big thanks to [@SethGower](https://github.com/SethGower) for spotting and reporting [this issue](https://github.com/mbatthew/GoogleWeatherIconsV4Pack/issues/2)!
-
 ### v1.3.0
 - Dramatically reduced APK size from 5MB to 500KB using oxipng optimization
 - Optimized icon dimensions to 256x256px
