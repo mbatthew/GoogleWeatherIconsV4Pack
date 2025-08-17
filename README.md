@@ -54,11 +54,23 @@ Click any icon to view the full-size PNG file.
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather) app installed
 ## Screenshots
 
-### App Integration
-<img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/settings.png" width="250" alt="Breezy Weather Settings"/> <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/preview.png" width="250" alt="Icon Pack Preview"/>
+### Breezy Weather Settings
+![Settings](https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/settings.png)
 
-### Weather Display Examples
-<img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/weather1.png" width="200" alt="Day Weather"/> <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/weather-night.png" width="200" alt="Night Weather"/> <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/weather-dark.png" width="200" alt="Dark Mode"/> <img src="https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/weather2.png" width="200" alt="More Examples"/>
+### Icon Pack Preview
+![Preview](https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/preview.png)
+
+### Day Weather
+![Weather Day](https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/weather1.png)
+
+### Night Weather
+![Weather Night](https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/weather-night.png)
+
+### Dark Mode
+![Dark Mode](https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/weather-dark.png)
+
+### More Examples
+![Weather 2](https://raw.githubusercontent.com/mbatthew/GoogleWeatherIconsV4Pack/main/app/src/main/assets/weather2.png)
 ## Technical Details
 - Package name: com.matthew.googleweathericonsv4
 - Target SDK: Android API level 34 (Android 14)
@@ -98,7 +110,7 @@ This project was made possible thanks to the open source community:
 - The source repository explicitly disclaims ownership with "I do not own these icons. All rights belong to Google"
 - No official Google documentation has been located that confirms these specific icons are released under an open source license
 - Users and distributors should be aware of potential copyright restrictions
-**Disclaimer**: This application is provided for educational and interoperability purposes. Users assume responsibility for compliance with applicable copyright laws in their jurisdiction.
+  **Disclaimer**: This application is provided for educational and interoperability purposes. Users assume responsibility for compliance with applicable copyright laws in their jurisdiction.
 ## Changelog
 ### v1.4.0 (Latest)
 - Fixed - Notification icons now display correctly
