@@ -23,5 +23,9 @@
             </intent-filter>
         </activity>
 
+        <meta-data
+            android:name="org.breezyweather.PROVIDER_CONFIG"
+            android:resource="@xml/icon_provider_config" />
+
     </application>
 </manifest>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Weather Wind Day Based on weather_wind_day_1.png -->
+    <objectAnimator
+        android:duration="1500"
+        android:propertyName="alpha"
+        android:valueFrom="0.3"
+        android:valueTo="1.0"
+        android:repeatCount="infinite"
+        android:repeatMode="reverse" />
+</set>
