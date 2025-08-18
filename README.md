@@ -36,7 +36,8 @@ Click any icon to view the full-size PNG file.
 - ✅ Optimized file size - 256x256px PNG icons for fast downloads
 - ✅ Full compatibility with Breezy Weather v5.4.8+
 - ✅ Clean integration - appears seamlessly in Breezy Weather settings
-- ✅ Lightweight APK - Under 500KB download size
+- ✅ Lightweight APK - ~2.8MB download size (with animator support, v2.0.0+)
+- ✅ **Animator support** for smoother, more dynamic icon rendering (added in v2.0.0)
 ## Installation
 ### Method 1: Download APK
 1. Go to [Releases](https://github.com/mbatthew/GoogleWeatherIconsV4Pack/releases)
@@ -61,22 +62,23 @@ Click any icon to view the full-size PNG file.
 - Package name: com.matthew.googleweathericonsv4
 - Target SDK: Android API level 34 (Android 14)
 - Minimum SDK: Android API level 21 (Android 5.0)
-- APK size: ~500KB
-- Architecture: Uses drawable_filter.xml for Breezy Weather integration
+- APK size: ~2.8MB (as of v2.0.0 with animator support)
+- Architecture: Uses drawable_filter.xml and animator XMLs for Breezy Weather integration
 - Icon format: 256x256px PNG with transparent backgrounds
 ## Development
 ### Project Structure
 ```
 app/
 ├── src/main/
-│   ├── res/
-│   │   ├── drawable/           # Weather icons (PNG)
-│   │   ├── mipmap-*/           # App launcher icons
-│   │   └── xml/
-│   │       └── drawable_filter.xml  # Breezy Weather mapping
-│   ├── assets/                 # Preview images
-│   └── AndroidManifest.xml     # App configuration
-└── build.gradle.kts           # Build configuration
+│   ├── res/
+│   │   ├── animator/             # Weather animators (XML)
+│   │   ├── drawable/             # Weather icons (PNG)
+│   │   ├── mipmap-*/             # App launcher icons
+│   │   └── xml/
+│   │       └── drawable_filter.xml  # Breezy Weather mapping
+│   ├── assets/                 # Preview images
+│   └── AndroidManifest.xml     # App configuration
+└── build.gradle.kts            # Build configuration
 ```
 ### Building
 1. Ensure you have Android Studio with SDK 34+
@@ -98,6 +100,10 @@ This project was made possible thanks to the open source community:
 - Users and distributors should be aware of potential copyright restrictions
   **Disclaimer**: This application is provided for educational and interoperability purposes. Users assume responsibility for compliance with applicable copyright laws in their jurisdiction.
 ## Changelog
+### v2.0.0 (Latest)
+- Added **animator support** for smoother, more dynamic icon rendering in Breezy Weather
+- Thanks to [@papjul](https://github.com/papjul) for providing the essential instructions!
+- **Note:** APK size increased to ~2.8MB in this release due to added animator support
 ### v1.4.0 (Latest)
 - Fixed - Notification icons now display correctly
 - Big thanks to [@SethGower](https://github.com/SethGower) for spotting and reporting [this issue](https://github.com/mbatthew/GoogleWeatherIconsV4Pack/issues/2)!
